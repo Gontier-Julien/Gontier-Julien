@@ -17,7 +17,7 @@ __My current project are:__
 
 - The [Twemoji-Remastered](https://github.com/Gontier-Julien/Twemoji-Remastered)  magisk modules 🐦
 
-  I really ❤️️ the [Twitter emoji](https://emojis.wiki/twitter/) 🐦, so that why i decided to continue maintain the module _Twemoji_.  
+  I really ❤️️ the [Twitter emoji](https://emojis.wiki/twitter/) 🐦, so that why i decided to continue maintain 🔧 the module _Twemoji_.  
   Why Remastered you may ask? Well because it again here and Remastered sound cool 😎
 
 <!--
