@@ -20,6 +20,12 @@ __My current project are:__
   I really ❤️️ the [Twitter emoji](https://emojis.wiki/twitter/) 🐦, so that why i decided to continue maintain 🔧 the module _Twemoji_.  
   Why Remastered you may ask? Well because it again here and Remastered sound cool 😎
 
+<br/>
+
+- Mirror and maintainer/helper at [chaotic-aur](https://github.com/chaotic-aur) 🔧
+
+  Chaotic-aur is an [Arch User Repository (AUR)](https://aur.archlinux.org/) repo, that compile the AUR packages for you, so you don't have to!
+
 <!--
 **Gontier-Julien/Gontier-Julien** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
