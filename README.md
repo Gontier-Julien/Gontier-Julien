@@ -15,6 +15,12 @@ __My current project are:__
 
 <br/>
 
+- The [Docker DOH image](https://github.com/Gontier-Julien/docker-dns-over-https) 📦
+
+  A DOH server in a super tiny docker image using distroless (~8.5MB!) 🚀
+
+<br/>
+
 - The [Twemoji-Remastered](https://github.com/Gontier-Julien/Twemoji-Remastered)  magisk modules 🐦
 
   I really ❤️️ the [Twitter emoji](https://emojis.wiki/twitter/) 🐦, so that why i decided to continue maintain 🔧 the module _Twemoji_.  
