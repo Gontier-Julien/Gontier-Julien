@@ -17,7 +17,7 @@ __My current project are:__
 
 - The [Docker DOH image](https://github.com/Gontier-Julien/docker-dns-over-https) 📦
 
-  A DOH server in a super tiny docker image using distroless (~8.5MB!) 🚀
+  A DOH server in a super tiny docker image using distroless or scratch to run (>8.5MB!) 🚀
 
 <br/>
 
