@@ -8,6 +8,9 @@ I develop a lots of stuff, help and participate on all kind of FOOS & Linux proj
 __My current project are:__
 
 - The [Linux-YAOK Kernel](https://github.com/Gontier-Julien/Linux-YAOK) 🐧
+<br/>
+
+> ⚠️This project is now read-only and deprecated⚠️
 
   It the main kernel that i use for myself and on my servers *(even tho they have they're specific configs and versions)*.  
   I mainly maintain this Kernel because i wanted an **optimized kernel**, but that didn't compromise on stabilty.  
