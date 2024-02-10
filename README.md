@@ -2,6 +2,7 @@
 <h3 align='center'>I'm a FOOS & Linux enthusiast 🐧</h3>
 
 I develop a lots of stuff, help and participate on all kind of FOOS & Linux projects related stuff too, from space! 🚀
+I am currently learning Rust 🦀 and building Oxidyn!🦀
 
 *Yes from space, because the universe is the best place! 🌌*
 
