@@ -18,7 +18,7 @@ I now mostly develop stuff on [Codeberg now.](https://codeberg.org/Gontier-Julie
 <br/>
 __My current project are:__
 
-- The [Linux-YAOK Kernel](codeberg.org/Gontier-Julien/Linux-YAOK) 🐧
+- The [Linux-YAOK Kernel](https://codeberg.org/Gontier-Julien/Linux-YAOK) 🐧
 
   > ⚠️This project is now read-only and deprecated⚠️
 
@@ -28,7 +28,7 @@ __My current project are:__
 
 <br/>
 
-- The [Docker DOH image](codeberg.org/Gontier-Julien/docker-dns-over-https) 📦
+- The [Docker DOH image](https://codeberg.org/Gontier-Julien/docker-dns-over-https) 📦
 
   > ⚠️This project is now read-only and deprecated⚠️
 
@@ -36,7 +36,7 @@ __My current project are:__
 
 <br/>
 
-- The [Twemoji-Remastered](codeberg.org/Gontier-Julien/Twemoji-Remastered)  magisk modules 🐦
+- The [Twemoji-Remastered](https://codeberg.org/Gontier-Julien/Twemoji-Remastered)  magisk modules 🐦
 
   > ⚠️This project as moved to Codeberg⚠️
 
