@@ -12,10 +12,11 @@ I helped the Pi-Hole project form time to time! 🪐
 <br/>
 <br/>
 
-I now mostly develop stuff on [Codeberg now.](https://codeberg.org/Gontier-Julien)
+__I now develop stuff on [Codeberg now.](https://codeberg.org/Gontier-Julien)__
 </div>
 <br/>
 <br/>
+
 __My current project are:__
 
 - The [Linux-YAOK Kernel](https://codeberg.org/Gontier-Julien/Linux-YAOK) 🐧
