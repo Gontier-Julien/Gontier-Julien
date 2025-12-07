@@ -8,14 +8,17 @@ I develop a lots of stuff, help and participate on all kind of FOOS & Linux proj
 <br/>
 <br/>
 
-I help the Pi-Hole project form time to time! 🪐
+I helped the Pi-Hole project form time to time! 🪐
+<br/>
+<br/>
+
+I now mostly develop stuff on [Codeberg now.](https://codeberg.org/Gontier-Julien)
 </div>
 <br/>
 <br/>
-
 __My current project are:__
 
-- The [Linux-YAOK Kernel](https://github.com/Gontier-Julien/Linux-YAOK) 🐧
+- The [Linux-YAOK Kernel](codeberg.org/Gontier-Julien/Linux-YAOK) 🐧
 
   > ⚠️This project is now read-only and deprecated⚠️
 
@@ -25,7 +28,7 @@ __My current project are:__
 
 <br/>
 
-- The [Docker DOH image](https://github.com/Gontier-Julien/docker-dns-over-https) 📦
+- The [Docker DOH image](codeberg.org/Gontier-Julien/docker-dns-over-https) 📦
 
   > ⚠️This project is now read-only and deprecated⚠️
 
@@ -33,7 +36,7 @@ __My current project are:__
 
 <br/>
 
-- The [Twemoji-Remastered](https://github.com/Gontier-Julien/Twemoji-Remastered)  magisk modules 🐦
+- The [Twemoji-Remastered](codeberg.org/Gontier-Julien/Twemoji-Remastered)  magisk modules 🐦
 
   > ⚠️This project as moved to Codeberg⚠️
 
